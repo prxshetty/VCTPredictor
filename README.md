@@ -4,6 +4,8 @@
 ## Project Overview
 This project aims to predict match outcomes between two teams using machine learning and AI. The predictions will be based on historical data, team statistics, individual player stats, and other relevant metrics from VLR.gg. The model will be used for yearly competition predictions.
 
+## Data Collection
+Uses an unoffical API for vlr.gg to collect match, results, teams, players and their stats for prediction.
 
 
 ## Upcoming Matches to Predict
